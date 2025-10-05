@@ -10,6 +10,6 @@ venv/
 .pytest_cache/
 .coverage
 *.log
-data/measurements.txt  # No subir archivos grandes
-*.csv
+data/measurements.txt
+# *.csv  ← Comentar esta línea
 .DS_Store
