@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.pytest_cache/
+.coverage
+*.log
+data/measurements.txt  # No subir archivos grandes
+*.csv
+.DS_Store

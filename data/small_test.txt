@@ -1,0 +1,10 @@
+Madrid;15.5
+Barcelona;18.2
+Madrid;12.1
+Valencia;22.0
+Barcelona;16.8
+Sevilla;25.3
+Madrid;17.8
+Bilbao;8.5
+Valencia;19.2
+Sevilla;27.1
