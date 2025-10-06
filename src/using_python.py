@@ -18,3 +18,8 @@ with open(path_do_csv, 'r', encoding='utf-8') as file:
         nome_station = row[0]
         temperatura = float(row[1])
         print(f"Estación: {nome_station}, Temperatura: {temperatura}")
+        
+        
+
+print ("testando dentro do repositorio")
+
