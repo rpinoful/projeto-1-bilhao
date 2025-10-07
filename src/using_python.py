@@ -32,7 +32,7 @@ for station,temperatures in temperatura_por_station.items():
     avg_temp = sum(temperatures)/len(temperatures) #calcula a media de temperaturas da station atual
     results[station] =(min_temp,max_temp,avg_temp)   
 
-print(list(results.items())[:5])
+print(list(results.items())[:10])
 
 
 
